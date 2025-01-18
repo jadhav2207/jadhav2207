@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Jadhav</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **C,SQL,HTML,CSS,Javasript,react,**
+- 🌱 I’m currently learning **C,SQL,HTML,CSS,Javasript,react, Mysql,Core Java,Advance Java,Java Framework spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
